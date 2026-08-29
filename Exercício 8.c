@@ -11,9 +11,9 @@ int main() {
  scanf( "%d", &num1 );
  
  if (num1 > 100){
-    printf("Digíte uma nota válida \n");
+    printf("Digite uma nota válida \n");
  } else if (num1 < 0){
-     printf("Digíte uma nota válida \n");
+     printf("Digite uma nota válida \n");
  } else if (num1 < 60){
      printf("Reprovado \n");
  } else{
